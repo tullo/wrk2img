@@ -1,6 +1,6 @@
 # wrk2img
 
-Generate latency graph from benchmark files produces with [wrk2](https://hub.docker.com/r/tullo/wrk2)
+Generate latency graph from benchmark files produced with [wrk2](https://hub.docker.com/r/tullo/wrk2)
 
 ## Build image
 
