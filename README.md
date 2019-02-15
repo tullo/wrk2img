@@ -12,3 +12,7 @@ Generate latency graph from benchmark files produces with [wrk2](https://hub.doc
     `docker run -it -v $(pwd):/data wrk2image`
 1. Generate a graphical representation of an input file
     `cat input/R18000 | wrk2img output/latency.png`
+
+## Example Output
+
+![](output/latency.png)
