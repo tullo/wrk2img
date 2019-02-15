@@ -16,3 +16,7 @@ Generate latency graph from benchmark files produced with [wrk2](https://hub.doc
 ## Example Output
 
 ![](output/latency.png)
+
+## Credit
+
+Python source code [Wrk2Img](https://pypi.org/project/wrk2img/)
